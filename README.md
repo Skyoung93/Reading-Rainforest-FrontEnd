@@ -42,6 +42,8 @@
 <!-- Login & Create Account -->
 
 ## Login & Create Account
+<img src='https://i.ibb.co/bv1GbcX/Screen-Shot-2022-10-08-at-3-36-05-PM.png'></img>
+<img src='https://i.ibb.co/jH7xFS8/Screen-Shot-2022-10-08-at-3-36-20-PM.png'></img>
 
 <!-- Home Page & Nav Bar -->
 
@@ -54,6 +56,15 @@
 <!-- Chat & Messages -->
 
 ## Chat & Messages
+![GIF expired](http://g.recordit.co/WioltM9okS.gif)
+
+Messages allows users to search and message other users. This component has the following features:
+  * Displays the last message of the users
+  * Has time stamp of all messages 
+  * Allow users to message each other from the trade module
+  * Sorts users based on time last message was sent
+  * Automatically scrolls down to last message or sent message
+  
 
 <!-- Trade Confirmation -->
 
@@ -62,6 +73,13 @@
 <!-- Trades -->
 
 ## Trades
+![GIF expired](http://g.recordit.co/VlbOOsbdMW.gif)
+
+Trades display cards of each trade and provides trader and book information. This component includes:
+  * Accept, Decline/Delete, and Message buttons for respective trades
+  * Updates trades for both users and traders
+  * Map display for confirmed trades
+  * Rating system for users to rate trades
 
 <!-- Profiles -->
 
@@ -79,7 +97,7 @@ Johnny Ho:
 <br />
 David Garcia: Search Page | Add Listing to Profile
 <br />
-Andy Ho:
+Andy Ho: Trades
 <br />
 Paul Ko:
 <br />
